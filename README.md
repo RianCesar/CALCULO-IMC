@@ -12,7 +12,7 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author FABIANA 
+ * @author RIAN
  */
 public class CalculoIMCjava
 {
